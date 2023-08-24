@@ -1,8 +1,8 @@
-color_class,color
-primary,purple
-secondary,grey
-success,#4F2683
-info,#807F83
+color_class,Western Official colours
+primary,#4F2683
+secondary,#807F83
+success,
+info,
 warning,
 danger,
 light,
